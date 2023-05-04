@@ -1,4 +1,4 @@
-# The Garden Cafe ☕ 🍽
+# The Garden Cafe ☕
 
 <img src="assets/The Garden Cafe.png" alt="Two Guns Espresso" width='150'>
 
