@@ -94,9 +94,6 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             9.80
         </td>
     </tr>
-    <tr colspan='4'>
-        <td><td>
-    </tr>
     <tr>
         <td rowspan='4'>
             Apetizers
@@ -191,3 +188,7 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         <td></td>
     </tr>
 </table>
+
+## **Feedback**
+
+Please feel free to contact me at [Hussam-Alraggad](mailto:engraggad60@gmail.com) for any feedback or advice.
