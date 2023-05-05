@@ -10,7 +10,7 @@ Welcome to The Garden Cafe!
 
 At The Garden Cafe, we offer a variety of delicious dishes made with fresh and locally sourced ingredients. Our menu features:
 
-<table>
+<table border='2'>
     <tr>
         <th>
             Dish Type
@@ -102,59 +102,66 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             Bruschetta
         </td>
         <td></td>
-        <td></td>
+        <td>
+            6.30
+        </td>
     </tr>
     <tr>
         <td>
             Fried Calamari
         </td>
         <td></td>
-        <td></td>
+        <td>
+            9.10
+        </td>
     </tr>
     <tr>
         <td>
             Spring Rolls
         </td>
         <td></td>
-        <td></td>
+        <td>
+            7.00
+        </td>
     </tr>
     <tr>
         <td>
             Caprese Salad
         </td>
         <td></td>
-        <td></td>
+        <td>
+            8.40
+        </td>
     </tr>
     <tr>
-        <td rowspan='4'>
+        <td rowspan='3'>
             Entrees
         </td>
         <td>
             Garden Burger
         </td>
         <td></td>
-        <td></td>
+        <td>
+            9.80
+        </td>
     </tr>
     <tr>
         <td>
             Grilled Chicken with Roasted Vegetables
         </td>
         <td></td>
-        <td></td>
-    </tr>
-    <tr>
         <td>
-            Penne Alla Vodka
+            12.60
         </td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <td>
             Fish and Chips
         </td>
         <td></td>
-        <td></td>
+        <td>
+            11.20
+        </td>
     </tr>
     <tr>
         <td rowspan='4'>
@@ -164,28 +171,36 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             Chocolate Cake
         </td>
         <td></td>
-        <td></td>
+        <td>
+            5.60
+        </td>
     </tr>
     <tr>
         <td>
             Tiramisu
         </td>
         <td></td>
-        <td></td>
+        <td>
+            6.30
+        </td>
     </tr>
     <tr>
         <td>
             Apple Pie
         </td>
         <td></td>
-        <td></td>
+        <td>
+            4.90
+        </td>
     </tr>
     <tr>
         <td>
             Cheesecake
         </td>
         <td></td>
-        <td></td>
+        <td>
+            6.30
+        </td>
     </tr>
 </table>
 
