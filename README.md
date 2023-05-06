@@ -6,6 +6,27 @@ Welcome to The Garden Cafe!
 
  Our restaurant offers a peaceful oasis where you can enjoy delicious food and drinks, surrounded by lush greenery. Our menu is carefully crafted using only the freshest ingredients to provide you with a unique dining experience. The restaurant boasts a natural and green environment, with live plants and trees throughout the space, as well as outdoor seating. Our casual and relaxed atmosphere is the perfect setting to enjoy good food, drinks, and conversation.
 
+## **Snapshots**
+
+Looking for a great spot to hang out with friends? Look no further! Whether you prefer indoor or outdoor seating, we have the perfect place for you. Come and enjoy a refreshing drink in a beautiful and welcoming environment. Check out some snapshots of our space below!
+
+- A lovely **Two Guns Espresso** drink:
+
+<img src="assets/Two-Guns-Espresso.jpg" alt="Two Guns Espresso" width='150'>
+
+- Indoor Seating:
+
+<img src="assets/indoor1.jpg" alt="indoor1" width='340'>
+<img src="assets/indoor2.jpg" alt="indoor2" width='300'>
+<img src="assets/indoor3.jpg" alt="indoor3" width='340'>
+<img src="assets/indoor4.jpg" alt="indoor4" width='300'>
+
+- Outdoor Seating Walkway:
+
+<img src="assets/outdoor-seating-walkway.jpg" alt="outdoor-seating-walkway" width='180'>
+<img src="assets/outdoor1.jpg" alt="outdoor1" width='200'>
+<img src="assets/outdoor2.jpg" alt="outdoor2" width='180'>
+
 ## **Menu**
 
 At The Garden Cafe, we offer a variety of delicious dishes made with fresh and locally sourced ingredients. Our menu features:
