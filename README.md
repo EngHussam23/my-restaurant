@@ -31,7 +31,7 @@ Looking for a great spot to hang out with friends? Look no further! Whether you 
 
 At The Garden Cafe, we offer a variety of delicious dishes made with fresh and locally sourced ingredients. Our menu features:
 
-<table>
+<table border='2'>
     <tr>
         <th>
             Dish Type
@@ -127,6 +127,9 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         </td>
         <td></td>
         <td></td>
+        <td>
+            6.30
+        </td>
     </tr>
     <tr>
         <td>
@@ -134,6 +137,9 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         </td>
         <td></td>
         <td></td>
+        <td>
+            9.10
+        </td>
     </tr>
     <tr>
         <td>
@@ -141,6 +147,9 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         </td>
         <td></td>
         <td></td>
+        <td>
+            7.00
+        </td>
     </tr>
     <tr>
         <td>
@@ -151,6 +160,12 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
     </tr>
     <tr>
         <td rowspan='4'>
+        <td>
+            8.40
+        </td>
+    </tr>
+    <tr>
+        <td rowspan='3'>
             Entrees
         </td>
         <td>
@@ -158,6 +173,9 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         </td>
         <td></td>
         <td></td>
+        <td>
+            9.80
+        </td>
     </tr>
     <tr>
         <td>
@@ -172,6 +190,9 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         </td>
         <td></td>
         <td></td>
+        <td>
+            12.60
+        </td>
     </tr>
     <tr>
         <td>
@@ -179,6 +200,9 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         </td>
         <td></td>
         <td></td>
+        <td>
+            11.20
+        </td>
     </tr>
     <tr>
         <td rowspan='4'>
@@ -189,6 +213,9 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         </td>
         <td></td>
         <td></td>
+        <td>
+            5.60
+        </td>
     </tr>
     <tr>
         <td>
@@ -196,6 +223,9 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         </td>
         <td></td>
         <td></td>
+        <td>
+            6.30
+        </td>
     </tr>
     <tr>
         <td>
@@ -203,6 +233,9 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         </td>
         <td></td>
         <td></td>
+        <td>
+            4.90
+        </td>
     </tr>
     <tr>
         <td>
@@ -212,3 +245,12 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         <td></td>
     </tr>
 </table>
+        <td>
+            6.30
+        </td>
+    </tr>
+</table>
+
+## **Feedback**
+
+Please feel free to contact me at [Hussam-Alraggad](mailto:engraggad60@gmail.com) for any feedback or advice.
