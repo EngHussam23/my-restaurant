@@ -115,9 +115,6 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             9.80
         </td>
     </tr>
-    <tr colspan='4'>
-        <td><td>
-    </tr>
     <tr>
         <td rowspan='4'>
             Apetizers
@@ -125,7 +122,6 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         <td>
             Bruschetta
         </td>
-        <td></td>
         <td></td>
         <td>
             6.30
@@ -136,7 +132,6 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             Fried Calamari
         </td>
         <td></td>
-        <td></td>
         <td>
             9.10
         </td>
@@ -145,7 +140,6 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         <td>
             Spring Rolls
         </td>
-        <td></td>
         <td></td>
         <td>
             7.00
@@ -156,13 +150,7 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             Caprese Salad
         </td>
         <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td rowspan='4'>
-        <td>
-            8.40
-        </td>
+        <td>8.40</td>
     </tr>
     <tr>
         <td rowspan='3'>
@@ -171,7 +159,6 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         <td>
             Garden Burger
         </td>
-        <td></td>
         <td></td>
         <td>
             9.80
@@ -182,14 +169,6 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             Grilled Chicken with Roasted Vegetables
         </td>
         <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>
-            Penne Alla Vodka
-        </td>
-        <td></td>
-        <td></td>
         <td>
             12.60
         </td>
@@ -198,7 +177,6 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         <td>
             Fish and Chips
         </td>
-        <td></td>
         <td></td>
         <td>
             11.20
@@ -212,7 +190,6 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             Chocolate Cake
         </td>
         <td></td>
-        <td></td>
         <td>
             5.60
         </td>
@@ -221,7 +198,6 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         <td>
             Tiramisu
         </td>
-        <td></td>
         <td></td>
         <td>
             6.30
@@ -232,7 +208,6 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             Apple Pie
         </td>
         <td></td>
-        <td></td>
         <td>
             4.90
         </td>
@@ -242,9 +217,6 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             Cheesecake
         </td>
         <td></td>
-        <td></td>
-    </tr>
-</table>
         <td>
             6.30
         </td>
