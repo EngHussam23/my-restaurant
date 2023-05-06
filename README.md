@@ -1,10 +1,31 @@
-# The Garden Cafe ☕
+# The Garden Cafe ☕ 🍽
 
 <img src="assets/The Garden Cafe.png" alt="Two Guns Espresso" width='150'>
 
 Welcome to The Garden Cafe!
 
  Our restaurant offers a peaceful oasis where you can enjoy delicious food and drinks, surrounded by lush greenery. Our menu is carefully crafted using only the freshest ingredients to provide you with a unique dining experience. The restaurant boasts a natural and green environment, with live plants and trees throughout the space, as well as outdoor seating. Our casual and relaxed atmosphere is the perfect setting to enjoy good food, drinks, and conversation.
+
+## **Snapshots**
+
+Looking for a great spot to hang out with friends? Look no further! Whether you prefer indoor or outdoor seating, we have the perfect place for you. Come and enjoy a refreshing drink in a beautiful and welcoming environment. Check out some snapshots of our space below!
+
+- A lovely **Two Guns Espresso** drink:
+
+<img src="assets/Two-Guns-Espresso.jpg" alt="Two Guns Espresso" width='150'>
+
+- Indoor Seating:
+
+<img src="assets/indoor1.jpg" alt="indoor1" width='340'>
+<img src="assets/indoor2.jpg" alt="indoor2" width='300'>
+<img src="assets/indoor3.jpg" alt="indoor3" width='340'>
+<img src="assets/indoor4.jpg" alt="indoor4" width='300'>
+
+- Outdoor Seating Walkway:
+
+<img src="assets/outdoor-seating-walkway.jpg" alt="outdoor-seating-walkway" width='180'>
+<img src="assets/outdoor1.jpg" alt="outdoor1" width='200'>
+<img src="assets/outdoor2.jpg" alt="outdoor2" width='180'>
 
 ## **Menu**
 
@@ -94,6 +115,9 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             9.80
         </td>
     </tr>
+    <tr colspan='4'>
+        <td><td>
+    </tr>
     <tr>
         <td rowspan='4'>
             Apetizers
@@ -101,6 +125,7 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         <td>
             Bruschetta
         </td>
+        <td></td>
         <td></td>
         <td>
             6.30
@@ -111,6 +136,7 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             Fried Calamari
         </td>
         <td></td>
+        <td></td>
         <td>
             9.10
         </td>
@@ -119,6 +145,7 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         <td>
             Spring Rolls
         </td>
+        <td></td>
         <td></td>
         <td>
             7.00
@@ -129,6 +156,10 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             Caprese Salad
         </td>
         <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan='4'>
         <td>
             8.40
         </td>
@@ -141,6 +172,7 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             Garden Burger
         </td>
         <td></td>
+        <td></td>
         <td>
             9.80
         </td>
@@ -150,6 +182,14 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             Grilled Chicken with Roasted Vegetables
         </td>
         <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            Penne Alla Vodka
+        </td>
+        <td></td>
+        <td></td>
         <td>
             12.60
         </td>
@@ -158,6 +198,7 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         <td>
             Fish and Chips
         </td>
+        <td></td>
         <td></td>
         <td>
             11.20
@@ -171,6 +212,7 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             Chocolate Cake
         </td>
         <td></td>
+        <td></td>
         <td>
             5.60
         </td>
@@ -179,6 +221,7 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
         <td>
             Tiramisu
         </td>
+        <td></td>
         <td></td>
         <td>
             6.30
@@ -189,6 +232,7 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             Apple Pie
         </td>
         <td></td>
+        <td></td>
         <td>
             4.90
         </td>
@@ -198,6 +242,9 @@ At The Garden Cafe, we offer a variety of delicious dishes made with fresh and l
             Cheesecake
         </td>
         <td></td>
+        <td></td>
+    </tr>
+</table>
         <td>
             6.30
         </td>
