@@ -1,6 +1,6 @@
 # The Garden Café ☕ 🍽
 
-<img src="assets/The Garden Café.png" alt="Two Guns Espresso" width='150'>
+<img src="assets/The_Garden_Café.png" alt="The_Garden_Café logo" width='150'>
 
 Welcome to The Garden Café!
 
