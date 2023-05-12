@@ -6,35 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="The Garden Café about page">
+    <link rel="stylesheet" href="./stylesheets/about_us_page_styles.css">
     <style>
-        html {
-            color: rgb(233, 233, 233);
-            background-color: rgb(3, 20, 38);
-        }
 
-        header {
-            padding: 25pt;
-            background-color: rgb(2, 14, 26);
-        }
-
-        .home_page_header {
-            margin-top: 0%;
-        }
-
-        main {
-            padding: 25pt;
-        }
-
-        a {
-            color: lightblue;
-        }
     </style>
     <title>Document</title>
 </head>
 
 <body>
     <header>
-        <h1 class="home_page_header">The Garden Café</h1>
+        <h1 class="home_page_header">
+            <img src="./assets/The_Garden_Café_transparent.png" alt="The Garden Cafe logo" width="50px" height="50px">
+            The Garden Café
+        </h1>
         <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About Us</a></li>
@@ -45,16 +29,18 @@
         <h2>
             About
         </h2>
-        <img src="./assets/personal_picture.jpg" alt="personal picture" width="250">
-        <p>
-            Am Hussam Alraggad and am a Software Developer.<br>
-            I've worked with Fullter, Dart, HTML, and CSS. I started learning UI/UX Design because I love design web
-            pages
-            and mobile applications, and <strong>The Garden Café</strong> is one of my web projects.
-        </p>
+        <section class="about_content">
+            <p>
+                <img src="./assets/personal_picture.jpg" alt="personal picture">
+                Am Hussam Alraggad and am a Software Developer.<br>
+                I've worked with Fullter, Dart, HTML, and CSS. I started learning UI/UX Design because I love design web
+                pages
+                and mobile applications, and <strong>The Garden Café</strong> is one of my web projects.
+            </p>
+        </section>
     </main>
     <footer>
-        <p>&copy; Copyrights Reserved</p>
+        <p class="copyrights_text">&copy; Copyrights Reserved</p>
     </footer>
 </body>
 

@@ -6,58 +6,277 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="The Garden Café home page">
-    <style>
-        html {
-            color: rgb(233, 233, 233);
-            background-color: rgb(3, 20, 38);
-        }
-
-        header {
-            padding: 25pt;
-            background-color: rgb(2, 14, 26);
-        }
-
-        .home_page_header {
-            margin-top: 0%;
-        }
-
-        main {
-            padding: 25pt;
-        }
-
-        .snapshots {
-            padding-left: 25pt;
-        }
-
-        a {
-            color: lightblue;
-        }
-    </style>
+    <link rel="stylesheet" href="./stylesheets/home_page_styles.css">
     <title>Document</title>
 </head>
 
 <body>
     <header>
-        <h1 class="home_page_header">The Garden Café</h1>
+        <h1 class="home_page_header">
+            <img src="./assets/The_Garden_Café_transparent.png" alt="The Garden Cafe logo" width="50px" height="50px">
+            The Garden Café
+        </h1>
         <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About Us</a></li>
             <li><a href="contacts.html">Contact Us</a></li>
         </ul>
     </header>
+    <h2 class="welcome_message">
+        Welcome to The Garden Café
+    </h2>
     <main>
-        <h2>
-            Snapshots
-        </h2>
-        <div class="snapshots">
-            <img src="./assets/indoor1.jpg" alt="indoor seating1" width="500">
-            <img src="./assets/outdoor1.jpg" alt="outdoor seating1" width="250"><br>
-            <img src="./assets/Two-Guns-Espresso.jpg" alt="Two-Guns-Espresso drink" width="250">
-            <img src="./assets/outdoor-seating-walkway.jpg" alt="outdoor-seating-walkway" width="250">
-        </div>
+        <section class="snapshots_section">
+            <h3 class="snapshots_header_text">
+                Snapshots
+            </h3>
+            <div class="snapshots">
+                <article class="img_card">
+                    <img src="./assets/Two-Guns-Espresso.jpg" alt="Two-Guns-Espresso drink">
+                    <section class="card_content">
+                        <p>
+                        <h3>
+                            Two Guns Espresso
+                        </h3>
+                        the perfect blend of rich espresso and smooth, creamy milk, topped with a delicate foam. Our
+                        signature espresso is made from the highest quality beans, roasted to perfection, creating a
+                        bold and flavorful coffee experience. With a touch of sweetness and a kick of caffeine, this
+                        drink is sure to satisfy any coffee lover's cravings. Come try Two Guns Espresso today and
+                        discover your new favorite coffee!
+                        </p>
+                    </section>
+                </article>
+                <article class="img_card">
+                    <img src="./assets/outdoor1.jpg" alt="outdoor seating1">
+                    <section class="card_content">
+                        <p>
+                        <h3>
+                            Outdoor Seating
+                        </h3>
+                        Enjoy the beautiful weather and delicious food at our outdoor seating area! Sit back and relax
+                        with your favorite dish while soaking up the sun or watching the stars. Our comfortable seating
+                        and picturesque surroundings make for the perfect atmosphere to unwind and socialize. Come dine
+                        with us today and enjoy the Fresh Air and Ambience of Our Outdoor Seating Area!
+                        </p>
+                    </section>
+                </article>
+                <article class="img_card">
+                    <img src="./assets/indoor1.jpg" alt="indoor seating1">
+                    <section class="card_content">
+                        <p>
+                        <h3>
+                            Indoor Seating
+                        </h3>
+                        Take a break and unwind in our cozy indoor seating area. Whether it's for work or relaxation,
+                        our space is designed to make you feel at home.
+                        </p>
+                    </section>
+                </article>
+            </div>
+        </section>
+        <section class="menu_section">
+            <h3>
+                Menu
+            </h3>
+            <table class="deshes_menu" border='2'>
+                <tr>
+                    <th>
+                        Dish Type
+                    </th>
+                    <th>
+                        Dish Name
+                    </th>
+                    <th>
+                        Description
+                    </th>
+                    <th>
+                        Price (JD)
+                    </th>
+                </tr>
+                <tr>
+                    <td rowspan='6'>
+                        The Garden Café Specials
+                    </td>
+                    <td>
+                        Grilled Chicken Salad
+                    </td>
+                    <td>
+                        Grilled chicken breast on a bed of mixed greens with tomatoes, cucumbers, and red onions, served
+                        with balsamic vinaigrette dressing
+                    </td>
+                    <td>
+                        9.10
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Garden Veggie Sandwich
+                    </td>
+                    <td>
+                        Sourdough bread with fresh avocado, lettuce, tomato, cucumber, and red onion, served with a side
+                        of sweet potato fries
+                    </td>
+                    <td>
+                        7.70
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Wild Mushroom Risotto
+                    </td>
+                    <td>
+                        Creamy risotto with wild mushrooms, spinach, and parmesan cheese
+                    </td>
+                    <td>
+                        10.50
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Pan-Seared Salmon
+                    </td>
+                    <td>
+                        Fresh Atlantic salmon served with roasted potatoes, grilled asparagus, and lemon butter sauce
+                    </td>
+                    <td>
+                        13.30
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Classic Cheeseburger
+                    </td>
+                    <td>
+                        Grass-fed beef patty with cheddar cheese, lettuce, tomato, onion, and pickles on a brioche bun,
+                        served with French fries
+                    </td>
+                    <td>
+                        8.40
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Margherita Pizza
+                    </td>
+                    <td>
+                        Fresh mozzarella cheese, sliced tomatoes, and basil on a crispy thin crust
+                    </td>
+                    <td>
+                        9.80
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan='4'>
+                        Apetizers
+                    </td>
+                    <td>
+                        Bruschetta
+                    </td>
+                    <td></td>
+                    <td>
+                        6.30
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Fried Calamari
+                    </td>
+                    <td></td>
+                    <td>
+                        9.10
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Spring Rolls
+                    </td>
+                    <td></td>
+                    <td>
+                        7.00
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Caprese Salad
+                    </td>
+                    <td></td>
+                    <td>8.40</td>
+                </tr>
+                <tr>
+                    <td rowspan='3'>
+                        Entrees
+                    </td>
+                    <td>
+                        Garden Burger
+                    </td>
+                    <td></td>
+                    <td>
+                        9.80
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Grilled Chicken with Roasted Vegetables
+                    </td>
+                    <td></td>
+                    <td>
+                        12.60
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Fish and Chips
+                    </td>
+                    <td></td>
+                    <td>
+                        11.20
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan='4'>
+                        Desserts
+                    </td>
+                    <td>
+                        Chocolate Cake
+                    </td>
+                    <td></td>
+                    <td>
+                        5.60
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Tiramisu
+                    </td>
+                    <td></td>
+                    <td>
+                        6.30
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Apple Pie
+                    </td>
+                    <td></td>
+                    <td>
+                        4.90
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Cheesecake
+                    </td>
+                    <td></td>
+                    <td>
+                        6.30
+                    </td>
+                </tr>
+            </table>
+
+        </section>
     </main>
     <footer>
-        <p>&copy; Copyrights Reserved</p>
+        <p class="copyrights_text">&copy; Copyrights Reserved</p>
     </footer>
 </body>
 

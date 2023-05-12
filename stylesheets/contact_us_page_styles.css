@@ -1,0 +1,67 @@
+* {
+    font-family: 'Caveat', cursive;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: rgb(232, 228, 148);
+}
+
+header {
+    background-color: rgb(133, 77, 39);
+    color: rgb(232, 228, 148);
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.home_page_header {
+    display: flex;
+    gap: 10px;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+}
+
+header ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(232, 228, 148);
+}
+
+a {
+    color: rgb(133, 77, 39);
+    text-decoration: none;
+}
+
+main {
+    padding: 15px;
+    min-height: calc(100vh - 50px);
+    color: rgb(133, 77, 39);
+}
+
+.contacts_content {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.copyrights_text {
+    text-decoration: underline;
+    text-align: end;
+}
+
+footer {
+    padding: 25pt;
+    background-color: rgb(244, 201, 93);
+    color: rgb(133, 77, 39);
+    bottom: 0px;
+}
