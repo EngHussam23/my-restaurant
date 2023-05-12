@@ -1,0 +1,126 @@
+* {
+    font-family: 'Caveat', cursive;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: rgb(232, 228, 148);
+}
+
+header {
+    background-color: rgb(133, 77, 39);
+    color: rgb(232, 228, 148);
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.home_page_header {
+    display: flex;
+    gap: 10px;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+}
+
+header ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(232, 228, 148);
+}
+
+a {
+    color: rgb(33, 33, 33);
+}
+
+main {
+    padding: 15px;
+    min-height: calc(100vh - 50px);
+    display: flex;
+    color: rgb(133, 77, 39);
+    justify-content: space-between;
+}
+
+.welcome_message {
+    padding: 15px;
+    color: rgb(133, 77, 39);
+}
+
+.menu_section {
+    width: 50%;
+    margin: 15px;
+}
+
+.deshes_menu {
+    background-color: rgba(192, 127, 0, 0.25);
+}
+
+.snapshots_section {
+    width: 50%;
+}
+
+.snapshots {
+    padding-top: 5px;
+    padding-left: 25pt;
+    padding-bottom: 5px;
+}
+
+.snapshots img {
+    height: 250px;
+    padding: 5px;
+    border-radius: 25px;
+    border: solid 10px rgb(133, 77, 39);
+}
+
+.snapshots_header_text {
+    text-align: start;
+    padding-bottom: 10px;
+}
+
+.copyrights_text {
+    text-decoration: underline;
+    text-align: end;
+}
+
+footer {
+    padding: 25pt;
+    background-color: rgb(244, 201, 93);
+    color: rgb(133, 77, 39);
+    bottom: 0px;
+}
+
+.img_card {
+    display: flex;
+    align-items: center;
+    border: solid 10px rgb(133, 77, 39);
+    background-color: rgb(133, 77, 39);
+    border-radius: 25px;
+    margin: 5px;
+}
+
+.img_card img {
+    padding: 5px;
+    border-radius: 25px;
+    border: none;
+}
+
+.card_content {
+    background-color: rgb(232, 228, 148);
+    border-radius: 25px;
+    padding: 10px;
+    height: 250px;
+    overflow: auto;
+}
+
+/*
+    #854d27, #dd7230, #f4c95d, #e7e393, #04030f
+*/
