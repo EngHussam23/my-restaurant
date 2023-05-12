@@ -2,7 +2,7 @@
 
 <img src="assets/The_Garden_Café.png" alt="The_Garden_Café logo" width='150'>
 
-Welcome to The Garden Café!
+Welcome to [The Garden Café](https://enghussam23.github.io/my-restaurant/)!
 
  Our restaurant offers a peaceful oasis where you can enjoy delicious food and drinks, surrounded by lush greenery. Our menu is carefully crafted using only the freshest ingredients to provide you with a unique dining experience. The restaurant boasts a natural and green environment, with live plants and trees throughout the space, as well as outdoor seating. Our casual and relaxed atmosphere is the perfect setting to enjoy good food, drinks, and conversation.
 
@@ -32,7 +32,7 @@ Looking for a great spot to hang out with friends? Look no further! Whether you 
 
 ## **Menu**
 
-At The Garden Café, we offer a variety of delicious dishes made with fresh and locally sourced ingredients. Our menu features:
+At [The Garden Café](https://enghussam23.github.io/my-restaurant/), we offer a variety of delicious dishes made with fresh and locally sourced ingredients. Our menu features:
 
 <table border='2'>
     <tr>
