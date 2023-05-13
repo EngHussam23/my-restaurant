@@ -47,11 +47,26 @@ main {
     padding: 15px;
     min-height: calc(100vh - 50px);
     color: rgb(133, 77, 39);
+    display: flex;
+}
+
+.contacts_section {
+    width: 50%;
 }
 
 .contacts_content {
     padding-left: 10px;
     padding-top: 10px;
+}
+
+.work_hours_table {
+    background-color: rgba(192, 127, 0, 0.25);
+}
+
+.contact_pic {
+    width: 50%;
+    border-radius: 25px;
+    border: 8px solid rgb(133, 77, 39);
 }
 
 .copyrights_text {
