@@ -28,7 +28,6 @@ Looking for a great spot to hang out with friends? Look no further! Whether you 
 - Outdoor Seating:
 
     <img src="assets/outdoor1.jpg" alt="outdoor1" width='200'>
-    <img src="assets/outdoor2.jpg" alt="outdoor2" width='180'>
 
 ## **Menu**
 
