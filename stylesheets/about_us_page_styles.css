@@ -44,22 +44,34 @@ a {
 }
 
 main {
-    padding: 15px;
+    padding: 10px;
     min-height: calc(100vh - 50px);
     display: flex;
-    flex-direction: column;
     gap: 10px;
     color: rgb(133, 77, 39);
 }
 
-.about_content {
-    padding-left: 10px;
+.text_section {
     display: flex;
+    flex-direction: column;
     gap: 10px;
+    width: 50%;
 }
 
-.about_content p {
-    width: 250px;
+.about_text {
+    padding-left: 20px;
+}
+
+.content_divider {
+    background-color: rgb(133, 77, 39);
+    color: rgb(133, 77, 39);
+    height: 4px;
+}
+
+.side_pic {
+    width: 50%;
+    border-radius: 25px;
+    border: 8px solid rgb(133, 77, 39);
 }
 
 .about_content p img {
